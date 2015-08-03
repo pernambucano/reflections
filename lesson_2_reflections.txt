@@ -1,0 +1,8 @@
+what happens when you initialize a repository? Why do you need to do it?
+
+-> I group all the files that I want to work with git. This way, git will know everything that happens with my files (add...del..changing...)
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-> It is different from the working directory because it can contain just some of the files and not all of them. We can select a subgroup of the working directory to commit to the repository. But, the files on the staging area are not commited yet, therefore they are not in the repository yet. It simplifies and gives us the control to commit whatever files we want to commit at that time.
